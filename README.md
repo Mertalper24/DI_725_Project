@@ -5,10 +5,10 @@
 This repository contains the Phase 1 submission for the DI 725 course project.
 
 ### Contents
--Literature Review of recent Vision-Language Models (VLMs), with a focus on PaliGemma.
--Project Proposal: Fine-tuning PaliGemma for satellite image captioning using the RISC dataset.
--Initial project setup and directory structure.
--WANDB integration and GitHub tracking enabled for future experiments.
+- Literature Review of recent Vision-Language Models (VLMs), with a focus on PaliGemma.
+- Project Proposal: Fine-tuning PaliGemma for satellite image captioning using the RISC dataset.
+- Initial project setup and directory structure.
+- WANDB integration and GitHub tracking enabled for future experiments.
 
 ### Goals for Phase 1
 - Understand recent advancements in multimodal transformers.
